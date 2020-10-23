@@ -1,0 +1,96 @@
+.feedContainer{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+.feed{
+    display: flex;
+    justify-content: center;
+    width: 50vw;
+    
+}
+.block{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+/*Inico do perfil*/
+.perfil{
+    width: 30vw;
+    height: 6vh;
+
+    display: flex;
+    align-items: center;
+    border: solid 1px #CCC;
+    box-sizing: border-box;
+    
+}
+.perfilNome{
+    display: flex;
+    flex-direction: column;
+    margin: 0 0 0 3%;
+}
+.icon{
+    margin: 0 0 0 3%;
+}
+.ftIcon{
+    border-radius: 9999px;
+    width: 2vw;
+    height: 4vh;
+}
+.sn-nome{
+    font-weight: 400;
+    font-size: 0.8em;
+}
+.sn-endereco{
+    font-weight: 300;
+    font-size: 0.7em;
+}
+.tresPontos{
+    width: 22vw;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 2%;
+}
+.iconTres{
+    width: 1vw;
+}
+/*Fim do perfil*/
+
+/*Inicio postagem*/
+.postagem{
+    width: 30vw;
+    height: 50vh;
+    background-color: aqua;
+}
+
+
+
+.imgPostagem{
+    width: 30vw;
+    height: 50vh;
+}
+
+/*Fim postagem*/
+
+/*Inicio comentario*/
+.comentarios{
+    width: 30vw;
+    height: 10vh;
+    border: solid 1px #CCC;
+}
+
+.iconsComentario{
+    width: 1.2vw;
+}
+.containerIcons{
+    width: 8vw;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 2%;
+}
+.nomeComentario{
+    font-weight: 500;
+    margin-right: 2%;
+}
