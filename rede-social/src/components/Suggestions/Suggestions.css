@@ -1,0 +1,15 @@
+.picture{
+    border-radius: 60px;
+    width: 4rem;
+    height: 4rem;
+}
+
+.suggestionPicture{
+    border-radius: 60px;    
+    width: 2rem;
+    height: 2rem;
+}
+
+.suggestionsFooter{
+    color: grey;
+}

@@ -1,5 +1,6 @@
 import React from "react"
 import "./Home.css"
+import Suggestions from "../../components/Suggestions"
 
 const Home = () => {
   return(
@@ -7,7 +8,7 @@ const Home = () => {
           {/* <Header /> */}
           {/* <Stories /> */}
           {/* <Feed /> */}
-          {/* <Suggestions /> */}
+          {<Suggestions/>}
       </main>
   )
 }
