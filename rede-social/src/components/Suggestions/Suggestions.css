@@ -1,0 +1,18 @@
+.picture{
+  border-radius: 60px;
+  width: 4rem;
+  height: 4rem;
+}
+
+.suggestionPicture{
+  border-radius: 60px;    
+  width: 2rem;
+  height: 2rem;
+}
+
+.suggestionsFooter ul{
+  color: grey;
+  display: flex;
+  max-width: 260px;
+  flex-wrap: wrap;
+}
