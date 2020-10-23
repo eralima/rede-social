@@ -4,7 +4,7 @@ import "./Home.css"
 const Home = () => {
   return(
       <main className="Home">
-          {/* <Header nome="Marcus" /> */}
+          {/* <Header /> */}
           {/* <Stories /> */}
           {/* <Feed /> */}
           {/* <Suggestions /> */}
