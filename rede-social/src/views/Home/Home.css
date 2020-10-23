@@ -7,3 +7,8 @@
   text-decoration: none;
   outline: none;
 }
+
+.Home {
+  margin: 0 auto;
+  max-width: 975px;
+}

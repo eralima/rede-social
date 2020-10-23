@@ -1,0 +1,45 @@
+.Header {
+    align-items: center;
+    background-color: #fff;
+    border: 2px solid blue;
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+    padding: 10px 0;
+}
+
+.logo-link {
+    height: 40px;
+}
+
+.logo-instagram {
+    display: block;
+    width: 120px;
+}
+
+#search-profiles {
+    border: solid 1px rgba(var(--b6a,219,219,219),1);
+    border-radius: 3px;
+    color: #262626;
+    height: 30px;
+    padding: 3px 10px 3px 26px;
+    /* text-align: center; */
+    outline: 0;
+}
+
+.icons {
+    border: 2px solid red;
+    display: flex;
+    font-size: 1.6em;
+    justify-content: space-between;
+    width: 240px;
+}
+
+.icons a {
+    color: #000;
+}
+
+.icons a:last-child {
+    color: #b9b5b5;
+}
+
